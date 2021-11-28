@@ -12,11 +12,11 @@ class _HomeState extends State<Home> {
 
   //var
   final List<Game> games = const [
-  const Game("assets/images/dmc5.jpg", "Devil May Cry 5", 200),
-  const Game("assets/images/re8.jpg", "Resident Evil VIII", 200),
-  const Game("assets/images/nfs.jpg", "Need For Speed Heat", 100),
-  const Game("assets/images/rdr2.jpg", "Red Dead Redemption II", 150),
-  const Game("assets/images/fifa.jpg", "FIFA 22", 100)
+   Game("assets/images/dmc5.jpg", "Devil May Cry 5", 200),
+   Game("assets/images/re8.jpg", "Resident Evil VIII", 200),
+   Game("assets/images/nfs.jpg", "Need For Speed Heat", 100),
+   Game("assets/images/rdr2.jpg", "Red Dead Redemption II", 150),
+   Game("assets/images/fifa.jpg", "FIFA 22", 100)
   ];
 
   //init
